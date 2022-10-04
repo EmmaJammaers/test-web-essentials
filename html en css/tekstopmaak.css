@@ -1,0 +1,29 @@
+.1 {
+    color: aqua;
+    font-family: Serif;
+    font-size: 10pt;
+}
+
+.2 {
+    color: coral;
+    font-family: Arial;
+    font-size: 11pt;
+}
+
+.3 {
+    color: plum;
+    font-family: "Times New Roman";
+    font-size: 12pt;
+}
+
+.4 {
+    color: forestgreen;
+    font-family: Broadway;
+    font-size: 13pt;
+}
+
+.5 {
+    color: navy;
+    font-family: Papyrus;
+    font-size: 14pt;
+}
